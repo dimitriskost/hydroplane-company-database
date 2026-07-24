@@ -22,3 +22,7 @@ The database architecture is built upon a detailed Entity-Relationship (E/R) mod
 - **Loyalty & Feedback:** Includes a tiered club system (Basic, Silver, Platinum) based on 
   kilometers flown, and a customer review tracking system.
 
+## Author
+Dimitrios Kostinis
+Undergraduate Student at Department of Mathematics, NKUA.
+
